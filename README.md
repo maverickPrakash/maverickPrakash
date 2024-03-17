@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakash</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FullTack developer and Mobile Application Developer. Interested in Artificial Intelligence</h3>
 
 
 
