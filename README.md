@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **EcoTrack**
 
-- 👯 I’m looking to collaborate on **M**
-
 - 👨‍💻 All of my projects are available at [https://maverickprakash.github.io/Prakash_K_W24Portfolio/](https://maverickprakash.github.io/Prakash_K_W24Portfolio/)
 
 - 📫 How to reach me **Prakashtheryon@gmail.com**
