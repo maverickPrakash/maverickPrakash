@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prakash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **EcoTrack**
 
-- 👯 I’m looking to collaborate on **M**
+
 
 - 👨‍💻 All of my projects are available at [https://maverickprakash.github.io/Prakash_K_W24Portfolio/](https://maverickprakash.github.io/Prakash_K_W24Portfolio/)
 
